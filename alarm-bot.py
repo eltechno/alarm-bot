@@ -40,7 +40,7 @@ def report_via_email():
         server.quit()
 
 """set the trigger """
-threshold = 95
+threshold = 80
 
 """ se the partition to check"""
 partition = "/"
